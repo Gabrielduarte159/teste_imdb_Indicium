@@ -10,7 +10,8 @@ O projeto consiste em uma análise exploratória dos dados (EDA), seguida pela c
 
 O repositório está organizado da seguinte forma:
 
-- `modelo_imdb.pkl`: Arquivo contendo o modelo preditivo de nota do IMDB desenvolvido no projeto.
+- `linear_regression_model.pkl`: Arquivo contendo Este arquivo contém o modelo de regressão linear treinado.
+- `feature_columns.pkl`:Arquivo contendo uma lista das colunas (features) que foram usadas para treinar o modelo.
 - `project_pproductions.ipynb`: Notebook contendo o código fonte do projeto, incluindo análise exploratória, desenvolvimento e validação do modelo preditivo de nota do IMDB.
 - `requirements.txt`: Arquivo de requisitos com todos os pacotes utilizados e suas versões.
 

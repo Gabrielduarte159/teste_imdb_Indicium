@@ -1,4 +1,4 @@
-# Projeto de Análise Cinematográfica para PProductions
+# Projeto de Análise Cinematográfica para Productions
 
 Este projeto visa desenvolver uma análise detalhada de um banco de dados cinematográfico para orientar a PProductions, um estúdio de Hollywood, na decisão sobre o próximo filme a ser produzido. O objetivo é analisar diversos fatores que influenciam o sucesso de um filme e fornecer recomendações baseadas nos dados disponíveis.
 
